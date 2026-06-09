@@ -1,0 +1,2 @@
+S001,Mary Wanjiku,mary@example.com,0711111111
+S002,John Kamau,john@example.com,0722222222
